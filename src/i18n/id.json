@@ -1,0 +1,87 @@
+{
+  "nav.home": "Beranda",
+  "nav.about": "Tentang",
+  "nav.services": "Layanan",
+  "nav.quality": "Kualitas",
+  "nav.clients": "Klien",
+  "nav.contact": "Kontak",
+  "hero.titleLine1": "CV. AKATE ENGINEERING",
+  "hero.titleLine2": "INDONESIA",
+  "hero.lead": "Solusi Teknik",
+  "hero.sub": "Konsultasi • Fabrikasi • Inovasi",
+  "button.learnMore": "Pelajari Lebih Lanjut",
+  "button.getInTouch": "Hubungi Kami",
+  "about.title": "Tentang AKATE Engineering",
+  "about.lead": "Satu Arah Solusi Teknik",
+  "services.title": "Layanan Kami",
+  "services.lead": "Solusi rekayasa komprehensif yang disesuaikan dengan kebutuhan industri Anda",
+  "services.items": [
+    {
+      "title": "Analisis FEA",
+      "description": "Analisis Elemen Hingga lanjutan untuk tegangan, deformasi, dan penilaian integritas struktural",
+      "features": ["Analisis Tegangan", "Studi Deformasi", "Validasi Struktur", "Kepatuhan ASME"]
+    },
+    {
+      "title": "Fabrikasi Umum",
+      "description": "Layanan fabrikasi komprehensif untuk peralatan dan struktur industri",
+      "features": ["Fabrikasi Logam", "Layanan Pengelasan", "Perakitan", "Kontrol Kualitas"]
+    },
+    {
+      "title": "Pemesinan Presisi",
+      "description": "Operasi pemesinan presisi tinggi untuk komponen kompleks",
+      "features": ["Operasi Bubut", "Layanan Milling", "Pengeboran", "Pemrosesan CNC"]
+    },
+    {
+      "title": "Mesin Khusus",
+      "description": "Solusi mesin yang dirancang khusus untuk aplikasi industri yang unik",
+      "features": ["Desain Khusus", "Otomasi", "Instalasi", "Commissioning"]
+    },
+    {
+      "title": "Peralatan Industri",
+      "description": "Pasokan dan distribusi peralatan dan komponen industri berkualitas, termasuk katup & fitting",
+      "features": ["Katup & Fitting", "Alat Industri", "Pasokan Peralatan", "Dukungan Teknis"]
+    },
+    {
+      "title": "Konsultasi Teknik",
+      "description": "Layanan konsultasi ahli untuk proyek teknik dan solusi teknis",
+      "features": ["Perencanaan Proyek", "Nasihat Teknis", "Optimisasi Proses", "Jaminan Kualitas"]
+    }
+  ],
+  "vision.title": "Visi & Misi",
+  "vision.missions": [
+    { "title": "Quality Excellence", "description": "Provide services that meet customer needs and requirements to achieve 100% quality, timely, and effective products or services." },
+    { "title": "Competitive Value", "description": "Offer competitive pricing and commit to punctuality in all deliverables." },
+    { "title": "Long-term Relationships", "description": "Maintain strong, long-lasting relationships with customers and suppliers." },
+    { "title": "Continuous Growth", "description": "Build a synergistic, communicative, open, and continuously developing culture." }
+  ],
+  "clients.title": "Klien Kami",
+  "clients.description": "Dipercaya oleh perusahaan terkemuka di berbagai industri",
+  "clients.highlights": [
+    { "title": "Kemitraan Terpercaya", "description": "Hubungan jangka panjang dibangun atas dasar keandalan dan keunggulan" },
+    { "title": "Pemimpin Industri", "description": "Melayani pelaku utama di sektor migas, manufaktur, dan industri" },
+    { "title": "Rekam Jejak Terbukti", "description": "Konsisten memberikan solusi dan layanan berkualitas" }
+  ],
+  "about.p1": "Dibentuk di Wanaherang, Gunung Putri, Kabupaten Bogor, CV. AKATE Engineering Indonesia memulai dengan memberikan layanan fabrikasi dan pemesinan termasuk operasi bubut, milling, dan pengeboran.",
+  "about.p2": "Setelah hampir 3 tahun beroperasi, AKATE Engineering telah berkembang menjadi perusahaan komprehensif yang menawarkan solusi teknik, Mesin Khusus, fabrikasi umum, layanan pemesinan, dan berkembang ke distribusi dan perdagangan peralatan industri.",
+  "about.companyOverview": "Gambaran Perusahaan",
+  "about.motto": "Berkomitmen untuk menjadi penyedia One Stop Engineering Solution yang memberikan nilai tambah kepada seluruh pelaku industri melalui inovasi dan teknologi.",
+  "about.features": [
+    { "title": "Fabrikasi Umum", "description": "Layanan fabrikasi yang ahli dengan ketelitian dan kualitas" },
+    { "title": "Pemesinan Presisi", "description": "Pemesinan tingkat tinggi termasuk bubut, milling, dan pengeboran" },
+    { "title": "Mesin Khusus", "description": "Mesin yang dirancang khusus untuk kebutuhan industri tertentu" },
+    { "title": "Konsultasi Teknik", "description": "Konsultasi profesional dan solusi teknis" }
+  ],
+  "services.feaTitle": "Keahlian FEA",
+  "services.feaPara1": "Layanan Analisis Elemen Hingga kami memastikan integritas struktural dan kepatuhan terhadap standar ASME BPVC. Kami menyediakan analisis tegangan, studi deformasi, dan penilaian keselamatan untuk peralatan industri kritis.",
+  "services.feaPara2": "Semua analisis mengikuti kode ASME dengan Unity Check (UC) dan Stress Ratio (SR) untuk menjamin desain yang aman dan andal.",
+  "footer.engineering": "Keunggulan Teknik",
+  "footer.copyright": "{year} CV. AKATE Engineering Indonesia. Hak cipta dilindungi.",
+  "footer.quickLinks": "Tautan Cepat",
+  "footer.contactInfo": "Informasi Kontak",
+  "footer.description": "CV. AKATE Engineering Indonesia - Mitra tepercaya Anda untuk solusi teknik komprehensif, fabrikasi presisi, dan layanan industri inovatif.",
+  "footer.tagline": "Teknik • Konsultasi • Fabrikasi • Inovasi",
+  "lang.english": "English",
+  "lang.bahasa": "Bahasa",
+  "seo.title": "valve, akate engineering, indonesia, akate services",
+  "seo.description": "valve, indonesia, distributor, consultant, affordable, top valve, top gate, top globe, top check valve"
+}

@@ -1,0 +1,71 @@
+{
+  "nav.home": "Home",
+  "nav.about": "About",
+  "nav.services": "Services",
+  "nav.quality": "Quality",
+  "nav.clients": "Clients",
+  "nav.contact": "Contact",
+  "hero.titleLine1": "CV. AKATE ENGINEERING",
+  "hero.titleLine2": "INDONESIA",
+  "hero.lead": "Engineering Solutions",
+  "hero.sub": "Consulting • Fabrication • Innovation",
+  "button.learnMore": "Learn More",
+  "button.getInTouch": "Get in Touch",
+  "about.title": "About AKATE Engineering",
+  "about.lead": "One Stop Engineering Solution",
+  "services.title": "Our Services",
+  "services.lead": "Comprehensive engineering solutions tailored to meet your industrial needs",
+  "services.items": [
+    { "title": "FEA Analysis", "description": "Advanced Finite Element Analysis for stress, deformation, and structural integrity assessments", "features": ["Stress Analysis", "Deformation Studies", "Structural Validation", "ASME Compliance"] },
+    { "title": "General Fabrication", "description": "Comprehensive fabrication services for industrial equipment and structures", "features": ["Metal Fabrication", "Welding Services", "Assembly", "Quality Control"] },
+    { "title": "Precision Machining", "description": "High-precision machining operations for complex components", "features": ["Lathe Operations", "Milling Services", "Drilling", "CNC Machining"] },
+    { "title": "Special Purpose Machines", "description": "Custom-designed machinery solutions for unique industrial applications", "features": ["Custom Design", "Automation", "Installation", "Commissioning"] },
+    { "title": "Industrial Equipment", "description": "Supply and distribution of quality industrial equipment and components", "features": ["Valves & Fittings", "Industrial Tools", "Equipment Supply", "Technical Support"] },
+    { "title": "Engineering Consulting", "description": "Expert consulting services for engineering projects and technical solutions", "features": ["Project Planning", "Technical Advisory", "Process Optimization", "Quality Assurance"] }
+  ],
+  "vision.title": "Vision & Mission",
+  "vision.missions": [
+    { "title": "Quality Excellence", "description": "Provide services that meet customer needs and requirements to achieve 100% quality, timely, and effective products or services." },
+    { "title": "Competitive Value", "description": "Offer competitive pricing and commit to punctuality in all deliverables." },
+    { "title": "Long-term Relationships", "description": "Maintain strong, long-lasting relationships with customers and suppliers." },
+    { "title": "Continuous Growth", "description": "Build a synergistic, communicative, open, and continuously developing culture." }
+  ],
+  "clients.title": "Our Clients",
+  "clients.description": "Trusted by leading companies across various industries",
+  "about.p1": "Established in Wanaherang, Gunung Putri, Bogor Regency, CV. AKATE Engineering Indonesia began by providing fabrication and machining services including lathe, milling, and drilling operations.",
+  "about.p2": "After nearly 3 years of operation, AKATE Engineering has evolved into a comprehensive company offering engineering solutions, Special Purpose Machines, general fabrication, machining services, and expanding into industrial equipment distribution and trading.",
+  "hero.partner": "Your trusted partner for comprehensive engineering solutions, precision fabrication, and cutting-edge FEA analysis",
+  "footer.engineering": "Engineering Excellence",
+  "footer.copyright": "{year} CV. AKATE Engineering Indonesia. All rights reserved.",
+  "footer.quickLinks": "Quick Links",
+  "footer.contactInfo": "Contact Info",
+  "footer.description": "CV. AKATE Engineering Indonesia - Your trusted partner for comprehensive engineering solutions, precision fabrication, and innovative industrial services.",
+  "footer.tagline": "Engineering • Consulting • Fabrication • Innovation",
+  "about.companyOverview": "Company Overview",
+  "about.motto": "Committed to becoming a One Stop Engineering Solution provider, delivering added value to all industry players through innovation and technology.",
+  "about.features": [
+    { "title": "General Fabrication", "description": "Expert fabrication services with precision and quality" },
+    { "title": "Precision Machining", "description": "Advanced machining including lathe, milling, and drilling" },
+    { "title": "Special Purpose Machines", "description": "Custom-designed machines for unique industrial needs" },
+    { "title": "Engineering Consulting", "description": "Professional consulting and technical solutions" }
+  ],
+  "services.feaTitle": "FEA Expertise",
+  "services.feaPara1": "Our advanced Finite Element Analysis services ensure structural integrity and compliance with ASME BPVC standards. We provide comprehensive stress analysis, deformation studies, and safety assessments for critical industrial equipment.",
+  "services.feaPara2": "All analyses follow ASME codes with Unity Check (UC) and Stress Ratio (SR) assessments to guarantee safe and reliable designs.",
+  "services.stats": [
+    { "title": "ASME", "subtitle": "Certified Standards" },
+    { "title": "<1", "subtitle": "Stress Ratio (SR)" },
+    { "title": "3D", "subtitle": "Analysis Models" },
+    { "title": "100%", "subtitle": "Accuracy" }
+  ],
+  "clients.description": "Trusted by leading companies across various industries",
+  "clients.highlights": [
+    { "title": "Trusted Partnership", "description": "Long-term relationships built on reliability and excellence" },
+    { "title": "Industry Leaders", "description": "Serving major players across oil & gas, manufacturing, and industrial sectors" },
+    { "title": "Proven Track Record", "description": "Consistent delivery of quality solutions and services" }
+  ],
+  "lang.english": "English",
+  "lang.bahasa": "Bahasa",
+  "seo.title": "valve, akate engineering, indonesia, akate services",
+  "seo.description": "valve, indonesia, distributor, consultant, affordable, top valve, top gate, top globe, top check valve"
+}

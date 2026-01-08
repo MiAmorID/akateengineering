@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&family=Playfair+Display:wght@400;700&display=swap');
+
+.variant-a {
+  --bg: #071042; /* deep navy */
+  --surface: rgba(255,255,255,0.04);
+  --card: rgba(255,255,255,0.03);
+  --accent: #2563eb; /* primary blue */
+  --muted: #94a3b8;
+  --text: #f8fafc;
+  --glass: rgba(255,255,255,0.06);
+  font-family: 'Montserrat', sans-serif;
+  --display-font: 'Playfair Display', serif;
+}
+
+.variant-a .preview-wrap {
+  background: linear-gradient(180deg, rgba(7,16,66,0.95) 0%, rgba(7,16,66,0.85) 100%);
+  color: var(--text);
+  padding: 2rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 8px 30px rgba(2,6,23,0.6);
+}
+
+.variant-a .preview-hero {
+  background: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.25) 100%);
+  padding: 2rem;
+  border-radius: 0.6rem;
+}
+
+.variant-a .preview-hero h2 {
+  font-family: var(--display-font), serif;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.variant-a .btn-cta {
+  background: linear-gradient(90deg, rgba(37,99,235,1) 0%, rgba(30,64,175,1) 100%);
+  color: #081026;
+  padding: 0.6rem 1.2rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  box-shadow: 0 6px 18px rgba(15,10,10,0.35);
+}
+
+.variant-a .meta {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
