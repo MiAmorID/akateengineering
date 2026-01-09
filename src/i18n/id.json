@@ -83,5 +83,18 @@
   "lang.english": "English",
   "lang.bahasa": "Bahasa",
   "seo.title": "valve, akate engineering, indonesia, akate services",
-  "seo.description": "valve, indonesia, distributor, consultant, affordable, top valve, top gate, top globe, top check valve"
+  "seo.description": "valve, indonesia, distributor, consultant, affordable, top valve, top gate, top globe, top check valve",
+  "whatsapp.title": "Hubungi Kami di WhatsApp",
+  "whatsapp.form.name": "Nama",
+  "whatsapp.form.company": "Perusahaan",
+  "whatsapp.form.email": "Email",
+  "whatsapp.form.phone": "Nomor Telepon",
+  "whatsapp.form.inquiry": "Pertanyaan",
+  "whatsapp.form.placeholder.name": "Nama lengkap Anda",
+  "whatsapp.form.placeholder.company": "Nama perusahaan Anda",
+  "whatsapp.form.placeholder.email": "Alamat email Anda",
+  "whatsapp.form.placeholder.phone": "Nomor telepon Anda",
+  "whatsapp.form.placeholder.inquiry": "Ceritakan tentang pertanyaan Anda",
+  "whatsapp.button.send": "Kirim",
+  "whatsapp.button.close": "Tutup"
 }
