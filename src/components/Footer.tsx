@@ -81,8 +81,8 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 text-blue-400 mr-2 flex-shrink-0" />
-                <a href="tel:081380547936" className="text-gray-400 hover:text-blue-400 text-sm">
-                  0813 8054 7936
+                <a href="https://wa.me/6287856562406" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 text-sm">
+                  +62 878 5656 2406
                 </a>
               </li>
               <li className="flex items-center">
@@ -97,18 +97,16 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-500 text-sm mb-4 md:mb-0">
+            <p className="text-gray-500 text-xs md:text-sm text-center md:text-left">
               {t('footer.copyright').replace('{year}', String(currentYear))}
             </p>
 
-            <div className="flex items-center gap-6">
-              <p className="text-gray-500 text-sm">{t('footer.tagline')}</p>
+            <div className="flex flex-col md:flex-row items-center gap-4 md:gap-6 w-full md:w-auto">
+              <p className="text-gray-500 text-xs md:text-sm text-center md:text-left whitespace-nowrap">{t('footer.tagline')}</p>
               <div className="flex items-center gap-2">
-                <div className="text-gray-400 text-sm">Language</div>
+                <div className="text-gray-400 text-xs md:text-sm">Language</div>
                 <LanguageSelector compact />
               </div>
-
-
             </div>
           </div>
         </div>

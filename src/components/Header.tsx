@@ -100,20 +100,20 @@ const Header = ({ scrolled }: HeaderProps) => {
         </div>
 
         {mobileMenuOpen && (
-          <nav className="md:hidden mt-4 pb-4 bg-[var(--surface)] rounded-lg shadow-lg">
+          <nav className="md:hidden mt-4 pb-4 bg-gradient-to-br from-gray-50 to-white rounded-xl shadow-xl border border-gray-200">
             {navItems.map((item) => (
               <button
                 key={item.id}
                 onClick={() => scrollToSection(item.id)}
-                className="block w-full text-left px-4 py-3 text-[var(--text)] hover:bg-black/5 hover:text-[var(--accent)] transition-colors"
+                className="block w-full text-left px-4 py-3 text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-all duration-200 font-medium"
               >
                 {item.label}
               </button>
             ))}
 
-            <div className="px-4 pt-4 border-t border-black/10">
+            <div className="px-4 pt-4 border-t border-gray-200">
               <div className="flex items-center justify-between">
-                <div className="text-sm text-[var(--muted)]">Language</div>
+                <div className="text-sm text-gray-600 font-medium">Language</div>
                 <LanguageSelector compact />
               </div>
             </div>
