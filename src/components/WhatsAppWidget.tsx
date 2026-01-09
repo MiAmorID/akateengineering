@@ -121,7 +121,7 @@ ${formData.inquiry}
                   value={formData.name}
                   onChange={handleInputChange}
                   placeholder={t('whatsapp.form.placeholder.name')}
-                  className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all"
+                  className="w-full px-3 py-2 text-sm text-gray-900 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all"
                 />
               </div>
 
@@ -136,7 +136,7 @@ ${formData.inquiry}
                   value={formData.company}
                   onChange={handleInputChange}
                   placeholder={t('whatsapp.form.placeholder.company')}
-                  className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all"
+                  className="w-full px-3 py-2 text-sm text-gray-900 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all"
                 />
               </div>
 
@@ -151,7 +151,7 @@ ${formData.inquiry}
                   value={formData.email}
                   onChange={handleInputChange}
                   placeholder={t('whatsapp.form.placeholder.email')}
-                  className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all"
+                  className="w-full px-3 py-2 text-sm text-gray-900 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all"
                 />
               </div>
 
@@ -166,7 +166,7 @@ ${formData.inquiry}
                   value={formData.phone}
                   onChange={handleInputChange}
                   placeholder={t('whatsapp.form.placeholder.phone')}
-                  className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all"
+                  className="w-full px-3 py-2 text-sm text-gray-900 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all"
                 />
               </div>
 
@@ -181,7 +181,7 @@ ${formData.inquiry}
                   onChange={handleInputChange}
                   placeholder={t('whatsapp.form.placeholder.inquiry')}
                   rows={3}
-                  className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all resize-none"
+                  className="w-full px-3 py-2 text-sm text-gray-900 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:border-transparent transition-all resize-none"
                 />
               </div>
 

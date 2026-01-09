@@ -17,12 +17,24 @@ const GallerySection = () => {
 
   // Placeholder images configuration
   const placeholderImages: GalleryImage[] = [
-    { id: '1', src: 'https://via.placeholder.com/400x400?text=Projects+1', category: 'projects', title: 'Project 1' },
-    { id: '2', src: 'https://via.placeholder.com/400x400?text=Installations+1', category: 'installations', title: 'Installation 1' },
-    { id: '3', src: 'https://via.placeholder.com/400x400?text=Equipment+1', category: 'equipment', title: 'Equipment 1' },
-    { id: '4', src: 'https://via.placeholder.com/400x400?text=Team+1', category: 'team', title: 'Team 1' },
-    { id: '5', src: 'https://via.placeholder.com/400x400?text=Workspace+1', category: 'workspace', title: 'Workspace 1' },
-    { id: '6', src: 'https://via.placeholder.com/400x400?text=Projects+2', category: 'projects', title: 'Project 2' },
+    // Products (8)
+    { id: '1', src: 'https://via.placeholder.com/400x400?text=Product+1', category: 'products', title: 'Product 1' },
+    { id: '2', src: 'https://via.placeholder.com/400x400?text=Product+2', category: 'products', title: 'Product 2' },
+    { id: '3', src: 'https://via.placeholder.com/400x400?text=Product+3', category: 'products', title: 'Product 3' },
+    { id: '4', src: 'https://via.placeholder.com/400x400?text=Product+4', category: 'products', title: 'Product 4' },
+    { id: '5', src: 'https://via.placeholder.com/400x400?text=Product+5', category: 'products', title: 'Product 5' },
+    { id: '6', src: 'https://via.placeholder.com/400x400?text=Product+6', category: 'products', title: 'Product 6' },
+    { id: '7', src: 'https://via.placeholder.com/400x400?text=Product+7', category: 'products', title: 'Product 7' },
+    { id: '8', src: 'https://via.placeholder.com/400x400?text=Product+8', category: 'products', title: 'Product 8' },
+    // Services (8)
+    { id: '9', src: 'https://via.placeholder.com/400x400?text=Service+1', category: 'services', title: 'Service 1' },
+    { id: '10', src: 'https://via.placeholder.com/400x400?text=Service+2', category: 'services', title: 'Service 2' },
+    { id: '11', src: 'https://via.placeholder.com/400x400?text=Service+3', category: 'services', title: 'Service 3' },
+    { id: '12', src: 'https://via.placeholder.com/400x400?text=Service+4', category: 'services', title: 'Service 4' },
+    { id: '13', src: 'https://via.placeholder.com/400x400?text=Service+5', category: 'services', title: 'Service 5' },
+    { id: '14', src: 'https://via.placeholder.com/400x400?text=Service+6', category: 'services', title: 'Service 6' },
+    { id: '15', src: 'https://via.placeholder.com/400x400?text=Service+7', category: 'services', title: 'Service 7' },
+    { id: '16', src: 'https://via.placeholder.com/400x400?text=Service+8', category: 'services', title: 'Service 8' },
   ];
 
   // Initialize images on mount

@@ -2,10 +2,9 @@ import { useEffect, useState } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
-import Vision from './components/Vision';
 import GallerySection from './components/GallerySection';
 import Services from './components/Services';
-import Quality from './components/Quality';
+import QualityStatement from './components/QualityStatement';
 import Clients from './components/Clients';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -28,10 +27,9 @@ function App() {
       <Header scrolled={scrolled} />
       <Hero />
       <About />
-      <Vision />
       <GallerySection />
       <Services />
-      <Quality />
+      <QualityStatement />
       <Clients />
       <Contact />
       <Footer />

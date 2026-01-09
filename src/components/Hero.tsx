@@ -178,25 +178,23 @@ const Hero = () => {
             {t('hero.partner')}
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <button
               onClick={() => scrollToAbout()}
-              className="btn-primary px-8 py-4 transition-all transform hover:scale-105"
+              className="btn-primary px-6 sm:px-8 py-2 sm:py-4 text-sm sm:text-base transition-all transform hover:scale-105"
             >
               {t('button.learnMore')}
             </button>
 
-            <div className="inline-block">
-              <button
-                onClick={() => {
-                  const element = document.getElementById('contact');
-                  element?.scrollIntoView({ behavior: 'smooth' });
-                }}
-                className="px-8 py-4 bg-transparent border-2 border-white text-white font-semibold rounded-full hover:bg-white hover:text-blue-600 transition-all transform hover:scale-105"
-              >
-                {t('button.getInTouch')}
-              </button>
-            </div>
+            <button
+              onClick={() => {
+                const element = document.getElementById('contact');
+                element?.scrollIntoView({ behavior: 'smooth' });
+              }}
+              className="px-6 sm:px-8 py-2 sm:py-4 text-sm sm:text-base bg-transparent border-2 border-white text-white font-semibold rounded-full hover:bg-white hover:text-blue-600 transition-all transform hover:scale-105"
+            >
+              {t('button.getInTouch')}
+            </button>
           </div>
 
           {/* Dots */}
