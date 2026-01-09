@@ -73,7 +73,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="mailto:info.akate24@gmail.com"
+            href="mailto:info@akate.id"
             className="bg-gradient-to-br from-cyan-500 to-cyan-600 text-white p-8 rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:scale-105 block"
           >
             <div className="flex items-center">
@@ -82,7 +82,7 @@ const Contact = () => {
               </div>
               <div>
                 <div className="text-cyan-100 text-sm mb-1">Email Us</div>
-                <div className="text-xl font-bold break-all">info.akate24@gmail.com</div>
+                <div className="text-xl font-bold break-all">info@akate.id</div>
               </div>
             </div>
           </a>
@@ -104,7 +104,7 @@ const Contact = () => {
               Call Now
             </a>
             <a
-              href="mailto:info.akate24@gmail.com"
+              href="mailto:info@akate.id"
               className="px-8 py-4 bg-transparent border-2 border-white text-white font-semibold rounded-full hover:bg-white hover:text-gray-900 transition-all transform hover:scale-105"
             >
               Send Email

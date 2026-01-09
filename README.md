@@ -1,16 +1,16 @@
 # AKATE Engineering — Website
 
-CV. AKATE ENGINEERING INDONESIA — a simple Vite + React + TypeScript starter customized for the AKATE Engineering marketing site.
+AKATE ENGINEERING INDONESIA — a simple Vite + React + TypeScript starter customized for the AKATE Engineering marketing site.
 
 ---
 
 ## Company profile
 
-**CV. AKATE Engineering Indonesia**
+**AKATE Engineering Indonesia**
 
 - Tagline: **Engineering Solutions**
 - Subtagline: **Consulting • Fabrication • Innovation**
-- About: Established in Wanaherang, Gunung Putri, Bogor Regency, CV. AKATE Engineering Indonesia began by providing fabrication and machining services including lathe, milling, and drilling operations. After nearly 3 years of operation, AKATE Engineering has evolved into a comprehensive company offering engineering solutions, Special Purpose Machines, general fabrication, machining services, and expanding into industrial equipment distribution and trading.
+- About: Established in Wanaherang, Gunung Putri, Bogor Regency, AKATE Engineering Indonesia began by providing fabrication and machining services including lathe, milling, and drilling operations. After nearly 3 years of operation, AKATE Engineering has evolved into a comprehensive company offering engineering solutions, Special Purpose Machines, general fabrication, machining services, and expanding into industrial equipment distribution and trading.
 - Partner line: *Your trusted partner for comprehensive engineering solutions, precision fabrication, and cutting-edge FEA analysis.*
 
 ---
