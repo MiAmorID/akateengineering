@@ -95,42 +95,6 @@ const Services = () => {
           ))}
         </div>
 
-        <div className="mt-16 bg-gradient-to-r from-blue-600 to-cyan-500 text-white p-8 md:p-12 rounded-3xl shadow-2xl">
-          <div className="grid md:grid-cols-2 gap-8 items-center">
-            <div>
-              <h3 className="text-3xl font-bold mb-4" style={{ fontFamily: 'Montserrat, sans-serif' }}>
-                FEA Expertise
-              </h3>
-              <p className="text-blue-50 leading-relaxed mb-4">
-                Our advanced Finite Element Analysis services ensure structural integrity and compliance
-                with ASME BPVC standards. We provide comprehensive stress analysis, deformation studies,
-                and safety assessments for critical industrial equipment.
-              </p>
-              <p className="text-blue-100 text-sm">
-                All analyses follow ASME codes with Unity Check (UC) and Stress Ratio (SR) assessments
-                to guarantee safe and reliable designs.
-              </p>
-            </div>
-            <div className="grid grid-cols-2 gap-4">
-              <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl">
-                <div className="text-3xl font-bold mb-1">ASME</div>
-                <div className="text-blue-100 text-sm">Certified Standards</div>
-              </div>
-              <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl">
-                <div className="text-3xl font-bold mb-1">&lt;1</div>
-                <div className="text-blue-100 text-sm">Stress Ratio (SR)</div>
-              </div>
-              <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl">
-                <div className="text-3xl font-bold mb-1">3D</div>
-                <div className="text-blue-100 text-sm">Analysis Models</div>
-              </div>
-              <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl">
-                <div className="text-3xl font-bold mb-1">100%</div>
-                <div className="text-blue-100 text-sm">Accuracy</div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );
