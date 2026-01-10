@@ -58,7 +58,7 @@ const Contact = () => {
 
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           <a
-            href="tel:081380547936"
+            href="tel:6287856562406"
             className="bg-gradient-to-br from-blue-600 to-blue-700 text-white p-8 rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:scale-105 block"
           >
             <div className="flex items-center">
@@ -67,7 +67,7 @@ const Contact = () => {
               </div>
               <div>
                 <div className="text-blue-100 text-sm mb-1">Call Us</div>
-                <div className="text-2xl font-bold">0813 8054 7936</div>
+                <div className="text-2xl font-bold">+62 878 5656 2406</div>
               </div>
             </div>
           </a>
@@ -98,7 +98,7 @@ const Contact = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:081380547936"
+              href="tel:6287856562406"
               className="px-8 py-4 bg-blue-600 text-white font-semibold rounded-full hover:bg-blue-700 transition-all transform hover:scale-105 shadow-xl"
             >
               Call Now
